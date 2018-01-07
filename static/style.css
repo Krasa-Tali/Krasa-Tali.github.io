@@ -39,4 +39,10 @@ header nav ul li {
 
 div.page {
     background: #f1fbfe;
+    overflow: hidden;
+}
+
+.page .image {
+    float: left;
+    margin: 0em 2ex 2em 0ex;
 }
